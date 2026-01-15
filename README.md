@@ -17,7 +17,7 @@ LOL Projects:
 - https://0xanalyst.github.io/Project-Lost/ - Project LOST (Living Off Security Tools)
 - https://boostsecurityio.github.io/lotp/ - Living Off the Pipeline
 - https://github.com/ReversecLabs/lolcerts - Living Off The Leaked Certificates (LoLCerts)
-
+- https://www.bootloaders.io/ - malicious bootloaders
 
 Post-exploitation
 ===================
