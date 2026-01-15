@@ -19,7 +19,9 @@ LOL Projects:
 - https://github.com/ReversecLabs/lolcerts - Living Off The Leaked Certificates (LoLCerts)
 - https://www.bootloaders.io/ - malicious bootloaders
 - https://lolol.farm/ - Collection of resources to thrive off the land
-
+- https://lolc2.github.io/ - collection of C2 frameworks that leverage legitimate services to evade detection
+- https://lolad-project.github.io/ - LOLAD and Exploitation project provides a comprehensive collection of Active Directory techniques, commands, and functions that can be used natively to support offensive security operations and Red Team exercises.
+- https://lottunnels.github.io/ - Living Off The Tunnels a.k.a LOTTunnels
 
 
 Post-exploitation
