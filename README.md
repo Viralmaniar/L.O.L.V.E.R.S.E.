@@ -18,6 +18,9 @@ LOL Projects:
 - https://boostsecurityio.github.io/lotp/ - Living Off the Pipeline
 - https://github.com/ReversecLabs/lolcerts - Living Off The Leaked Certificates (LoLCerts)
 - https://www.bootloaders.io/ - malicious bootloaders
+- https://lolol.farm/ - Collection of resources to thrive off the land
+
+
 
 Post-exploitation
 ===================
